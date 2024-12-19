@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MshGLbuIRtYJID/G/VZkHGt82NhRsDfhJDKrh5nk9dWyx4pN8oFLnK3PnjlxItczU+M4AkEEEb0i9ezu+2ukNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhols\\Desktop\\CodingKata\\c#\\palindrome\\palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhols\\.nuget\\packages\\nunit\\4.3.0\\nunit.4.3.0.nupkg.sha512",
+    "C:\\Users\\jhols\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

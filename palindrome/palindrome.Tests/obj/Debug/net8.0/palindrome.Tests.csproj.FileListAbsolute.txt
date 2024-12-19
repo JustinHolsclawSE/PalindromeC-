@@ -1,0 +1,10 @@
+C:\Users\jhols\Desktop\CodingKata\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.csproj.AssemblyReference.cache
+C:\Users\jhols\Desktop\CodingKata\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhols\Desktop\CodingKata\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.AssemblyInfoInputs.cache
+C:\Users\jhols\Desktop\CodingKata\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.AssemblyInfo.cs
+C:\Users\jhols\Desktop\CodingKata\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jhols\Desktop\CodingKata\c#\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.csproj.AssemblyReference.cache
+C:\Users\jhols\Desktop\CodingKata\c#\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhols\Desktop\CodingKata\c#\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.AssemblyInfoInputs.cache
+C:\Users\jhols\Desktop\CodingKata\c#\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.AssemblyInfo.cs
+C:\Users\jhols\Desktop\CodingKata\c#\palindrome\palindrome.Tests\obj\Debug\net8.0\palindrome.Tests.csproj.CoreCompileInputs.cache
